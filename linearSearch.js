@@ -1,4 +1,5 @@
 // Write an algorithm that performs linear search on a given array.
+// Moises, Yuri, and Gil
 
 let testArray = [1, 2, 3, 4, 5, 6, 7, 8, 9, 12, 15, 16, 19, 24, 29, 27, 26]
 
