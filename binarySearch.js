@@ -40,8 +40,8 @@ const binarySearch = function(arr, target) {
 
     //***loop steps until target is equal the middle element and while 
     //COMPARE the element of the array in the middle with the target
-        //A. if target is greater than the middle element, then middle index = first index
-        //B. if target is less than the middle element, then the last index = middle index
+        //A. if target is greater than the middle element, then first index = middle index + 1
+        //B. if target is less than the middle element, then the last index = middle index - 1
     //middle index is (first index + last index)/2
     //***end loop
     
